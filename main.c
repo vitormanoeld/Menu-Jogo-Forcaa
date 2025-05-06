@@ -57,7 +57,7 @@ void executarMenu() {
         printf("Escolha uma opcao (1-3): \n");
 
         if (scanf("%d", &opcao) != 1) {
-            printf("Entrada invalida. Por favor, insira um numero entre 1 e 3.\n");
+            printf("Entradaa invalida. Por favor, insira um numero entre 1 e 3.\n");
         } else {
             opcaoMenu(opcao);
         }
